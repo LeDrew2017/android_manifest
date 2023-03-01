@@ -44,6 +44,7 @@
   <remove-project name="device/google/sunfish-sepolicy" />
 
   <!-- external -->
+  <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/external/cldr" />
   <remove-project name="platform/external/e2fsprogs" />
