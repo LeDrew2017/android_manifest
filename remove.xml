@@ -128,10 +128,6 @@
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
 
-  <!-- prebuilts -->
-  <remove-project name="platform/prebuilts/clang/host/linux-x86" />
-  <remove-project name="platform/prebuilts/rust" />
-
   <!-- system -->
   <remove-project name="platform/system/apex" />
   <remove-project name="platform/system/core" />
